@@ -24,4 +24,5 @@ git restore <arquivo>
 
 
 # enviar alteracao para o github
+git branch -M main
 git push -u origin main
