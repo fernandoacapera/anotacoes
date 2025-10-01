@@ -1,5 +1,11 @@
 Design: figma.com
 
-Anotações: tldraw.com
+Desenho: tldraw.com
 
 Mapa mental: whimsical.com
+
+Anotações:
+ - Offline: Obsidian
+ - Online: notion.so
+
+Documentações: developer.mozilla.org & devdocs.io
