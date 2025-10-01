@@ -21,3 +21,7 @@ git restore <arquivo>
 #recuperar um arquivo deletado
  uso o checkout para ir no commit que tem o arquivo antes de ser deletado
  e uso checkout <id> -- <nome-arquivo>
+
+
+# enviar alteracao para o github
+git push -u origin main
