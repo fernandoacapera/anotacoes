@@ -9,3 +9,5 @@ Anotações:
  - Online: notion.so
 
 Documentações: developer.mozilla.org & devdocs.io
+
+Aula para assistir: F055
