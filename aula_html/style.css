@@ -1,6 +1,8 @@
 body{
     background-color: rgba(0, 0, 0, 0.912);
     color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
 }
 
 #sumario{
@@ -30,4 +32,7 @@ a:hover{
     margin: 30px 0px 0px 0px;
 }
 
+#fonts-google{
+    text-decoration: underline;
+}
 
